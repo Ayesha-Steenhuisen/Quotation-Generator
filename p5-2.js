@@ -1,5 +1,3 @@
-/* This is just a comment */
-
 let inspirationalQuotes = {
   fragment1: [
     "The three great essentials to achieve anything worthwhile are,",
